@@ -1,0 +1,12 @@
+language: python
+dist: xenial
+sudo: true
+
+python:
+  - 3.9.1
+before_install:
+  - pip install poetry
+install:
+  - poetry install -v
+script:
+  - poetry run flake8 .
