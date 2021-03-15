@@ -8,11 +8,14 @@ authors = ["Fernando <luiz-fernando@outlook.com>"]
 python = "^3.9"
 Django = "^3.1.7"
 gunicorn = "^20.0.4"
+python-decouple = "^3.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
 flake8 = "^3.8.4"
 pytest-django = "^4.1.0"
+pytest-cov = "^2.11.1"
+codecov = "^2.1.11"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
