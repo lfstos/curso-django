@@ -7,6 +7,6 @@ python:
 before_install:
   - pip install poetry
 install:
-  - poetry  install -v
+  - poetry install -v
 script:
   - poetry run flake8 .
