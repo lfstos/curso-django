@@ -1,0 +1,17 @@
+asgiref @ file:///home/fernando/.cache/pypoetry/artifacts/9c/90/26/d9fa1dfd567d8ba46faa44b741eb6442f3b97eb9f10a40bc1ad7a7f10e/asgiref-3.3.1-py3-none-any.whl
+attrs @ file:///home/fernando/.cache/pypoetry/artifacts/f9/48/82/553e4bef24d3b294c0c18f27a7853f3ed151508efd144cb7ea37db1c48/attrs-20.3.0-py2.py3-none-any.whl
+Django @ file:///home/fernando/.cache/pypoetry/artifacts/80/9f/e8/7dbac946baeff06413dea73548571fa188758ff084c6258f4e50a09137/Django-3.1.7-py3-none-any.whl
+flake8 @ file:///home/fernando/.cache/pypoetry/artifacts/4f/88/2e/d38cf0f4194842739925b11c47e3143194778609f5ebc1997b71de0b21/flake8-3.8.4-py2.py3-none-any.whl
+gunicorn @ file:///home/fernando/.cache/pypoetry/artifacts/a6/65/a7/4b58823c91bc813ac9e95258024ddc1f2678b5bfc0ea3bc134495a203e/gunicorn-20.0.4-py2.py3-none-any.whl
+mccabe @ file:///home/fernando/.cache/pypoetry/artifacts/96/5e/5f/21ae5296697ca7f94de4da6e21d4936d74029c352a35202e4c339a4253/mccabe-0.6.1-py2.py3-none-any.whl
+more-itertools @ file:///home/fernando/.cache/pypoetry/artifacts/06/8c/08/25f009f5a9697bfe17bb5789059239edc9053bc9c06ed7db76f146ce57/more_itertools-8.7.0-py3-none-any.whl
+packaging @ file:///home/fernando/.cache/pypoetry/artifacts/c2/76/aa/699ed723689e741411dfbdbc9b8c392079d54fb1e1a1b814df7be7cf47/packaging-20.9-py2.py3-none-any.whl
+pluggy @ file:///home/fernando/.cache/pypoetry/artifacts/29/58/fc/ed8b7451d3ef91a6465024f5656141da996e7aafd4d41a1659629a75e7/pluggy-0.13.1-py2.py3-none-any.whl
+py @ file:///home/fernando/.cache/pypoetry/artifacts/60/79/0b/c48bd9c2a989aa8b1eb7a67cd02b053c10734f2e4e5665f7995f09999c/py-1.10.0-py2.py3-none-any.whl
+pycodestyle @ file:///home/fernando/.cache/pypoetry/artifacts/00/8e/03/5dd26ed1283fc5849fa141c87a1d99659b252d7a2105d6ec509c6de6cd/pycodestyle-2.6.0-py2.py3-none-any.whl
+pyflakes @ file:///home/fernando/.cache/pypoetry/artifacts/c6/a2/76/8815e047ae91abaf39cdde4a16f52907ed96ae14e12a498dd0704cb43a/pyflakes-2.2.0-py2.py3-none-any.whl
+pyparsing @ file:///home/fernando/.cache/pypoetry/artifacts/92/0f/cf/effdcd5d76a6186df0969f85b3b030284ff8058936d5016540b5258ea3/pyparsing-2.4.7-py2.py3-none-any.whl
+pytest @ file:///home/fernando/.cache/pypoetry/artifacts/e4/88/dd/3dbff42e3c4462dc3d027f5024025571166cb35edee215ce93852a968c/pytest-5.4.3-py3-none-any.whl
+pytz @ file:///home/fernando/.cache/pypoetry/artifacts/b0/a7/8d/54de3ab4d1ff29abbbca1e9ccbaefdc2a1b290138311b84f73bee16de1/pytz-2021.1-py2.py3-none-any.whl
+sqlparse @ file:///home/fernando/.cache/pypoetry/artifacts/bc/af/02/8aa71b17fd39b26b858293918c5c6412f83768a0bfd0a4626f660aa5f8/sqlparse-0.4.1-py3-none-any.whl
+wcwidth @ file:///home/fernando/.cache/pypoetry/artifacts/7d/f4/60/0737157bb9711fec72c70dff523aa54491eef317e0d586cf5388ff0908/wcwidth-0.2.5-py2.py3-none-any.whl
