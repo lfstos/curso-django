@@ -10,4 +10,6 @@ install:
   - poetry install -v
 script:
   - poetry run flake8 .
-  - poetry run pytest
+  - poetry run pytest --cov=pypro
+after_success:
+  - poetry run codecov
