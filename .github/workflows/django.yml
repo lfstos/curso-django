@@ -31,10 +31,9 @@ jobs:
     - name: Copy env-sample file
       run: |
         cp contrib/env-sample .env
-
     - name: Run Flake8
       run: |
         poetry run flake8 .
     - name: Run Tests
       run: |
-        poetry run pytest
+        poetry run pytest --cov=base
